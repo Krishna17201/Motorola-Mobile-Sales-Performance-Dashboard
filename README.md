@@ -110,7 +110,8 @@ The dashboard enables exploration of the following business questions:
 
 **Analytical Value:** By combining KPI monitoring, trend analysis, product comparisons, geographical visualization, and customer behaviour analysis, the dashboard translates transactional data into meaningful business intelligence.
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview: https://github.com/Krishna17201/Motorola-Mobile-Sales-Performance-Dashboard/blob/main/Motorola_Sales_Performance_View.png
+
 
 
 
